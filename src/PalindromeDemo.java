@@ -1,5 +1,5 @@
 
-public class ReverseDemo {
+public class PalindromeDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
